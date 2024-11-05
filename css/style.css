@@ -196,7 +196,7 @@ main {
 
 /* Form */
 #signup {
-    background-image: url('../images/aistad.jpg') no-repeat center center/cover;
+    background-image: url('/images/aistad.jpg') no-repeat center center/cover;
     background-size: cover;
     background-position: 75%;
     padding: 20px 10% 0 10%;
